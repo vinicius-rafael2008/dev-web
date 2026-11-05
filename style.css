@@ -59,6 +59,31 @@ button:hover{
 
 }
     
+.topo h1{
+    color:var(--cor-card);
+
+}
+nav{
+    display:flex;
+    gap:var(--espacamento);
+
+}
+ nav a{
+    color:var(--cor-texto);
+    text-decoration:none;
+
+
+}
+banner{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    gap:var(--espacamento);
+    padding: 70px 8%;
+    background-color: linear-;
+}
+
+
 
     
     
